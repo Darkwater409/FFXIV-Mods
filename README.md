@@ -25,5 +25,5 @@ Final Fantasy XIV was a 2010 massively multiplayer online role-playing game for 
 [001]: Lustfule%20Eyes/README.md
 [002]: [NS3D]%20(VM)%20UI%20Pack/README.md
 [003]: Scion%20Healers%20Robe%20Spellcaster%20Jacket/README.md
-[004]: Return%20to%20Elements%20WHM%20FULL/README.md
+[004]: Return%20to%20Elements%20[WHM]%20[FULL]/README.md
 
